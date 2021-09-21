@@ -5,6 +5,10 @@ category: Faraz Ahmad Khan
 ---
 
 
+### AWS Solution Architect
+##### GENESE/KPITB
+<img src="certificates/aws.jpg" >
+
 ### Open Source Apprentice
 ##### Grey Software
 <img src="certificates/apprenticeshipCert-1.jpg" >

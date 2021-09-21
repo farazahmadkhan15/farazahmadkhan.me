@@ -23,6 +23,8 @@ Hello! I am Faraz Ahmad Khan, recent graduated Software Engineer with a passion 
 ##### Django
 ##### Django Restful-Framework
 ##### Flask
+##### Vue/NUXT
+##### Tailwindcss
 ##### ExpressJS
 
 ### Database
