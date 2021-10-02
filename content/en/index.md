@@ -3,10 +3,9 @@ title: About Me
 position: 1
 category: Faraz Ahmad Khan
 ---
-Hello! I am Faraz Ahmad Khan, recent graduated Software Engineer with a passion for developing innovative programs. I love to work on Websites, REST APIs, and Machine Learning and always enjoy learning new languages and development techniques. 
+Hello! I am Faraz Ahmad Khan, recent graduated Software Engineer with a passion for developing innovative programs. I love to work on Websites, REST APIs, and Machine Learning and always enjoy learning new languages and development techniques.
 
-<cta-button text="Get My Resume" link="https://drive.google.com/file/d/1wCm4rUCL0ajgeZrkQa7qlBwmVTPINDkY/view?usp=sharing ">
-</cta-button>
+<cta-button text="Get My Resume" link="https://drive.google.com/file/d/1wCm4rUCL0ajgeZrkQa7qlBwmVTPINDkY/view?usp=sharing "></cta-button>
 
 
 ## Skills
