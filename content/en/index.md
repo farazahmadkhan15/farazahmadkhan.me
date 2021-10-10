@@ -15,8 +15,8 @@ Hello! I am Faraz Ahmad Khan, recent graduated Software Engineer with a passion 
 
 ### Languages
 ##### Python 
-##### Javascript
-##### NodeJS
+##### Javascript/Typescript
+
 
 ### Frameworks
 ##### Django
@@ -25,6 +25,8 @@ Hello! I am Faraz Ahmad Khan, recent graduated Software Engineer with a passion 
 ##### Vue/NUXT
 ##### Tailwindcss
 ##### ExpressJS
+##### Fastify
+##### NestJS
 
 ### Database
 ##### MySQL
