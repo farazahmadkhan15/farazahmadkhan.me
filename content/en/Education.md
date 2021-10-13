@@ -1,6 +1,6 @@
 ---
 title: Education
-position: 2
+position: 3
 category: Faraz Ahmad Khan
 ---
 

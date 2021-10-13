@@ -1,6 +1,6 @@
 ---
 title: Certificates
-position: 5
+position: 4
 category: Faraz Ahmad Khan
 ---
 

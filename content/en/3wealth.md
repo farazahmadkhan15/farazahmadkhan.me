@@ -10,4 +10,3 @@ category: Projects
 - Created an Admin panel for managing App data from Firebase.
 - Built a Firebase Function to add the user's signature PDFforms.
 - Built Schedule Function to publish newsfeeds at the specified time
-
