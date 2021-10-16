@@ -9,8 +9,6 @@ category: Projects
 <cta-button text="GitHub" link="https://github.com/farazahmadkhan15/NIDS_APP">
 </cta-button>
 
-<cta-button text="Draft Paper" link="https://drive.google.com/file/d/1nDl880ZMD_wg15fBSch-i1eifrLqw_2e/view?usp=sharing">
-</cta-button>
 
 ## Overview
 
