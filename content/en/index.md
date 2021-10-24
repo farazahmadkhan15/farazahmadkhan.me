@@ -14,7 +14,7 @@ Hello! I am Faraz Ahmad Khan, recent graduated Software Engineer with a passion 
 
 ### Summary
 
-<codersrank-skills-chart username="farazahmadkhan15" legend=true tooltip=true skills="JavaScript,Python, Vue, HTML, TypeScript, JSON, Jupyter Notebook" branding=false></codersrank-skills-chart>
+<codersrank-skills-chart username="farazahmadkhan15" legend=true tooltip=true skills="JavaScript,Python, Vue, HTML, TypeScript, JSON, Jupyter Notebook,Dart" branding=false></codersrank-skills-chart>
 
 ### TimeLine
 
