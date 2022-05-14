@@ -4,9 +4,15 @@ position: 2
 category: Faraz Ahmad Khan
 ---
 
-## Timeline
+### NodeJs Developer @ Veevo Tech
 
-<codersrank-timeline username="farazahmadkhan15" branding=false></codersrank-timeline>
+#### Jan-2022 - Present
+
+- Planning, designing and developing software products.
+- Developing APIs with NodeJs mongoDB.
+- Working on third-party APIs.
+- Documentating APIs.
+- Integrating APIs with frontend designs.
 
 ### Software Devoloper @ Grey Software
 
@@ -18,16 +24,19 @@ I started out at Grey software as an apprentice from UET Mardan in April 2021, a
 - Engineered sections of the V4 [landing website](https://grey.software/)
 - Wrote scripts to automate organizations workflow.
 - Worked on a dashboard for the organization's automation infrastructure.
+- Worked on a dashboard for the organization's automation infrastructure.
+- Setup self-hosted services including Ghost, n8n, Listmonk,
 
-### Web Developer @ Fiverr
+### Web Developer @ Sam's Solution Inc.
 
-#### Oct-2020
+#### Project Based
 
-I started a freelance career during the last year of engineering during which I build a backend solutions for organizations such as [MEMSCUBE LABS](https://www.memscube.com/) and [SAM'S SOLUTION](https://www.samssolution.com/)
+Worked on multiple outsourced Web projects.
 
-- Build backend using flask and node.js.
-- Creating cloud functions using node.js.
-- Deploying Apps to AWS and Heroku.
+- Admin Panels for mobile applications for managing data from firebase.
+- Developed multiple firebase Cloud functions for server side logics in NodeJs.
+- Developed RTC application (similar to zoom) using 100ms SDK.
+- Developed FTP portal website for sharing files among teams with access control. The project was built using NUXTJS and firebase.
 
 ### Apprentice @ Grey Software
 

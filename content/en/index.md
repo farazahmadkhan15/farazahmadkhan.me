@@ -16,10 +16,6 @@ Hello! I am Faraz Ahmad Khan, recent graduated Software Engineer with a passion 
 
 <codersrank-skills-chart username="farazahmadkhan15" legend=true tooltip=true skills="JavaScript,Python, Vue, HTML, TypeScript, JSON, Jupyter Notebook,Dart" branding=false></codersrank-skills-chart>
 
-### TimeLine
-
-<codersrank-timeline username="farazahmadkhan15" branding=false type="technologies"></codersrank-timeline>
-
 ### Languages
 
 ##### Python
@@ -27,10 +23,6 @@ Hello! I am Faraz Ahmad Khan, recent graduated Software Engineer with a passion 
 ##### Javascript/Typescript
 
 ### Frameworks
-
-##### Django
-
-##### Django Restful-Framework
 
 ##### Flask
 
@@ -59,3 +51,7 @@ Hello! I am Faraz Ahmad Khan, recent graduated Software Engineer with a passion 
 ##### AWS
 
 ##### Firebase
+
+### Others
+
+##### SocketIo
